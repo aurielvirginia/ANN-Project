@@ -1,2 +1,4 @@
 # ANN-Project
-ANN algorithm use to seatch accuracy from dataset
+Any ANN algorithm use to search accuracy from dataset 
+
+
